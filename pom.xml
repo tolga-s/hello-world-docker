@@ -16,8 +16,10 @@
         <repository>
             <id>github</id>
             <name>GitHub OWNER Maven Packages</name>
-            <url>https://maven.pkg.github.com/moteer/hello-world-docker</url>
+            <url>https://maven.pkg.github.com/tolga-s/hello-world-docker</url>
         </repository>
     </distributionManagement>
+
+
 
 </project>
